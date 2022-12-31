@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dansierrasam79, working at a startup in Bangalore, as a Content Specialist. So, why open such a GitHub account, you might ask?
 - After obtaining my B.S in Computer Science, it felt necessary to add all the code written to a space other than Google Drive. GitHub is such a place. 
 - So, even if I'm not collaborating with anyone or working on any development projects currently, I'm just going to use GitHub for the reason that most other people do - store their code for whatever purpose.
-- In the hope that someone would recognize their hard work and appreciate them for it.
+- In the hope that someone would recognize my hard work. Or even benefit from the code that I have written!
 Thanks for dropping by!
 
 <!---
