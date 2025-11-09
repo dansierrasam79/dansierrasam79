@@ -1,4 +1,4 @@
-- 👋 Hey, I'm focused on building my programming skills primarily in Python. Am very serious getting up to speed for programming languages such as R, Julia, Prolog and JavaScript using tools such as Perplexity and Gemini to accelerate this learning process. 
+- 👋 Hey, I'm focused on building skills ranging from dumb automation, data analytics, data science and artificial intelligence. You'll find practice examples of various tools used beginning from Excel (with VBA & Office Scripts), Google Sheets (Apps Scripts), SPSS, Python (Pandas, NumPy), SQL and R for the same. 
 <!---
 dansierrasam79/dansierrasam79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
