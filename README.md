@@ -28,7 +28,7 @@ Features:
 - Object-Oriented VBA Design
 
 Repository:
-REPLACE_WITH_REPO_LINK
+https://github.com/dansierrasam79/music-store-management-vba
 
 ---
 
