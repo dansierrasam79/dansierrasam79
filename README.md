@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Chakraborty
 
-I'm passionate about building business solutions on the Microsoft platform, with a particular focus on Microsoft 365, SharePoint Online, automation, scripting, and business application development.
+I'm passionate about building business solutions on the Microsoft platform, with a particular focus on Microsoft 365, SharePoint Online, automation, scripting, and business application development. Also, working on AI-infused applications, using Google AI Studio alongside.
 
 ## 🔭 Current Focus
 
