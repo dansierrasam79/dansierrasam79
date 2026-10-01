@@ -8,8 +8,8 @@ I'm passionate about building business solutions on the Microsoft platform, with
 - SharePoint Online Architecture
 - Power Automate
 - PowerShell for Microsoft 365
-- Excel VBA
-- Office Scripts & TypeScript
+- Excel Automation for VBA & Office Scripts
+- TypeScript
 - C#
 - Copilot Studio
 
