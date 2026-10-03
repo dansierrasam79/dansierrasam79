@@ -1,83 +1,149 @@
-# 👋 Hi, I'm Daniel Chakraborty
+# Hi, I'm Daniel Chakraborty 👋
 
-I'm passionate about building business solutions on the Microsoft platform, with a particular focus on Microsoft 365, SharePoint Online, automation, scripting, and business application development. Also, working on AI-infused applications, using Google AI Studio alongside.
+I'm a technologist who enjoys building business solutions at the intersection of automation, collaboration, analytics, artificial intelligence, and knowledge management.
 
-## 🔭 Current Focus
+My primary focus is the Microsoft ecosystem, particularly Microsoft 365, SharePoint Online, Power Platform, PowerShell, Copilot, and modern automation technologies. I am especially interested in designing solutions that help organizations manage information, streamline processes, and make better decisions.
 
-- Microsoft 365 Administration
-- SharePoint Online Architecture
-- Power Automate
-- PowerShell for Microsoft 365
-- Excel Automation for VBA & Office Scripts
-- TypeScript
-- C#
-- Copilot Studio
-
-## 🚀 Featured Projects
-
-### 🎵 Music Store Management System (Excel VBA)
-
-A desktop-style business application built using Excel VBA, UserForms, and Excel Tables.
-
-Features:
-- Inventory Management
-- Sales Management
-- Dashboard Analytics
-- Revenue Tracking
-- Automated Reporting
-- Object-Oriented VBA Design
-
-Repository:
-https://github.com/dansierrasam79/music-store-management-vba
-
+Alongside Microsoft technologies, I have also built automation and AI-enabled solutions using Google Workspace.
 ---
 
-### 🇮🇳 Indian Income Tax Calculator (Office Scripts)
+# What I'm Building
+I enjoy creating practical software and automation projects that solve real business problems.
 
-An Excel Online automation solution built using Office Scripts and TypeScript.
+## Music Store Management System (Excel VBA)
+A desktop-style business application built using Excel VBA, UserForms, and Excel Tables.
 
-Features:
-- Income Tax Computation
-- Automated Calculations
+### Features
+- Inventory Management
+- Sales Management
+- Revenue Tracking
+- Dashboard Analytics
+- Report Generation
+- Object-Oriented VBA Design
+
+### Technologies
+- Excel VBA
+- UserForms
+- Excel Tables
+---
+
+## Indian Income Tax Calculator (Office Scripts)
+A Microsoft 365 automation project built using Office Scripts and TypeScript.
+
+### Features
+- Automated Tax Computation
+- Financial Calculations
 - Summary Reporting
 - Excel Online Automation
-- Modern Microsoft 365 Development
 
-Repository:
-https://github.com/dansierrasam79/tax-management-system
+### Technologies
+- Office Scripts
+- TypeScript
+- Excel Online
+---
 
-## 🛠 Technologies
+## AI Executive Reporting Sheets (Google Workspace)
+An AI-assisted executive reporting solution built on Google Workspace.
 
-### Microsoft 365
+### Features
+- Automated Executive Reports
+- Data Aggregation
+- AI-Assisted Summarization
+- Spreadsheet Automation
 
+### Technologies
+- Google Sheets
+- Apps Script
+- Gemini Flash 3.8
+---
+
+## OCR for Medical Receipts (Google Workspace)
+A document-processing workflow that extracts and structures data from medical receipts.
+
+### Features
+- OCR Processing
+- Data Extraction
+- Spreadsheet Integration
+- Workflow Automation
+
+### Technologies
+- Apps Script
+- Gemini Flash 3.8
+- Google Workspace
+---
+
+# Current Focus
+## SharePoint Online Architecture
+I'm currently designing a portfolio-grade SharePoint Online implementation focused on:
+- Information Architecture
+- Content Types
+- Managed Metadata
+- Governance
+- Search
+- Power Automate
+- Copilot Readiness
+
+This project reflects my growing interest in enterprise knowledge management and digital workplace design.
+---
+
+# Technologies
+## Microsoft
+- Microsoft 365
 - SharePoint Online
+- Teams
+- Exchange Online
+- OneDrive
 - Power Automate
 - PowerShell
-- Copilot Studio
 - Office Scripts
+- Copilot Studio
+- Power BI
 
-### Development
-
+## Development
 - VBA
 - TypeScript
 - C#
 - Python
 - SQL
 - R
-- Rust
 - F#
+- Rust
 
-## 🌱 Current Projects
-
-- Portfolio-grade SharePoint Online Architecture
-- Quality Management System (C#)
-- Power BI Dashboards
-- Copilot Studio AI Agents
-
-## 🎯 Long-Term Goal
-
-To become a Microsoft 365 Solutions Architect capable of designing enterprise-scale solutions that combine SharePoint, Power Platform, AI, automation, and custom development.
-
+## Cloud Productivity Platforms
+- Microsoft 365
+- Google Workspace
 ---
 
-📍 Bengaluru, India
+# Career Direction
+I am working toward becoming a Microsoft 365 Solutions Architect with a particular focus on:
+- SharePoint Architecture
+- Enterprise Content Management
+- Information Governance
+- Knowledge Management
+- Microsoft Graph
+- Power Platform
+- Copilot and AI
+- Business Process Automation
+---
+
+# Philosophy
+I believe technology delivers the most value when it helps people find information, share knowledge, automate repetitive work, and make better decisions.
+
+For that reason, my interests extend beyond pure software development into information architecture, collaboration platforms, automation, analytics, and artificial intelligence.
+---
+
+# Currently Learning
+```text
+Microsoft 365 Administration
+        ↓
+SharePoint Online Architecture
+        ↓
+Microsoft Graph
+        ↓
+Power Platform
+        ↓
+Copilot Studio
+        ↓
+Enterprise Solution Architecture
+```
+---
