@@ -127,7 +127,7 @@ I am working toward becoming a Microsoft 365 Solutions Architect with a particul
 ---
 
 # Philosophy
-I believe technology delivers the most value when it helps people find information, share knowledge, automate repetitive work, and make better decisions.
+I believe technology delivers the most value when it helps people find information, share knowledge, automate repetitive work, and make better decisions. 
 
 For that reason, my interests extend beyond pure software development into information architecture, collaboration platforms, automation, analytics, and artificial intelligence.
 ---
@@ -146,4 +146,5 @@ Copilot Studio
         ↓
 Enterprise Solution Architecture
 ```
+Thanks for visiting my profile.
 ---
