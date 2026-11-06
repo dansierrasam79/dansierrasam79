@@ -16,6 +16,7 @@ Currently pursuing a Post-Graduate Diploma in Data Science.
 * **FormLimit Studio** — Dynamic submission capping and response scheduling for Google Forms.
 
 **In Active Development:**
+* **SheetDiff & Reconciliation Studio** - Two-sheet diffing, keyed record reconciliation, and visual audit trail generator for Google Sheets.
 * **Luach Harmonizer** — Multi-calendar and liturgical synchronization utility for Google Sheets.
 * **Choice Eliminator Studio** — Real-time option pruning and registration limiter for Google Forms.
 * **BigQuery FinOps & Billing Auditor** — Automated query spend inspection and cost-optimization tooling.
