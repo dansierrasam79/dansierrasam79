@@ -8,16 +8,19 @@ Currently pursuing a Post-Graduate Diploma in Data Science.
 
 ### 🌐 Google Workspace Ecosystem
 
-**Published / Production Add-ons:**
+**Published / Production Add-ons, Extensions and Plugins:**
+* **Tabulara** - Client-side HTML table extractor and schema-clean CSV/JSON exporter for Chrome.
+* **FactLens** - Zero-server web page claim inspector and source-verification utility for Chrome.
 * **FormulaFix AI** — AI-powered formula auditor, explainer, and syntax repair engine for Google Sheets.
 * **Sheet Data Cleaner Studio** — Zero-telemetry, in-memory data hygiene and deduplication workbench for Google Sheets.
 * **Sheet Table Reshaper Studio** — Deterministic table unpivoting, matrix flattening, and delimited-text expansion for Google Sheets.
 * **Sheet Consolidator Studio** — Multi-tab automated tabular consolidation and union engine for Google Sheets.
 * **FormLimit Studio** — Dynamic submission capping and response scheduling for Google Forms.
-
-**In Active Development:**
 * **SheetDiff & Reconciliation Studio** - Two-sheet diffing, keyed record reconciliation, and visual audit trail generator for Google Sheets.
 * **Luach Harmonizer** — Multi-calendar and liturgical synchronization utility for Google Sheets.
+* **OAuth Scope Minimizer** — Deterministic pre-tool OAuth2 and Chrome Manifest V3 least-privilege gatekeeper for Google Antigravity and Gemini CLI.
+
+**In Active Development:**
 * **Choice Eliminator Studio** — Real-time option pruning and registration limiter for Google Forms.
 * **BigQuery FinOps & Billing Auditor** — Automated query spend inspection and cost-optimization tooling.
 
